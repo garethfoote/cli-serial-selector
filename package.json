@@ -1,0 +1,12 @@
+{
+  "name": "cli-serial-selector",
+  "version": "0.0.1",
+  "description": "CLI tool for selecting serial port within Node",
+  "main": "index.js",
+  "author": "Gareth Foote <gareth.foote@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "serialport": "^4.0.7"
+  }
+}
