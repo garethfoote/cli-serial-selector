@@ -8,5 +8,9 @@
   "dependencies": {
     "inquirer": "^3.0.6",
     "serialport": "^4.0.7"
+  },
+  "repository" :{
+    "type" : "git",
+    "url" : "https://github.com/garethfoote/cli-serial-selector.git"
   }
 }
